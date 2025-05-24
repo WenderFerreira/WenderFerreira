@@ -1,4 +1,4 @@
-<h1 align="center">👩 Wender Ferreira</h1>
+<h1 align="center"> Wender Ferreira</h1>
 <p align="center"><strong>Gestor de Agentes de IA</strong></p>
 
 <p align="center">
