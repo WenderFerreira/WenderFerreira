@@ -38,9 +38,9 @@ Me chamo Wender Ferreira Brito, tenho 21 anos e sou um profissional formado em A
 
 - 📍 Jaraguá, SP  
 - 📧 wenderbritoferreira@gmail.com  
-- 💼 [LinkedIn (adicione o link aqui)](www.linkedin.com/in/
+- 💼 [LinkedIn www.linkedin.com/in/
 wender-ferreira-5b86a6240
-)  
+ 
 
 ---
 
