@@ -23,11 +23,11 @@ Me chamo Wender Ferreira Brito, tenho 21 anos e sou um profissional formado em A
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=WENDER&show_icons=true&theme=tokyonight&locale=pt-br" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WENDER&layout=compact&theme=tokyonight&locale=pt-br"
     height="180"
   />
 </p>
@@ -38,7 +38,9 @@ Me chamo Wender Ferreira Brito, tenho 21 anos e sou um profissional formado em A
 
 - 📍 Jaraguá, SP  
 - 📧 wenderbritoferreira@gmail.com  
-- 💼 [LinkedIn (adicione o link aqui)](https://www.linkedin.com/in/SEULINK)  
+- 💼 [LinkedIn (adicione o link aqui)](www.linkedin.com/in/
+wender-ferreira-5b86a6240
+)  
 
 ---
 
