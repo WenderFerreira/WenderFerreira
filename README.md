@@ -1,4 +1,4 @@
-<h1 align="center"> Wender Ferreira</h1>
+<h1 align="center">👩🏻‍💻 Wender Ferreira</h1>
 <p align="center"><strong>Gestor de Agentes de IA</strong></p>
 
 <p align="center">
@@ -9,27 +9,22 @@ Me chamo Wender Ferreira Brito, tenho 21 anos e sou um profissional formado em A
 
 ### 🧠 Linguagens e Tecnologias
 
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-<img align="left" alt="n8n" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" />
-<img align="left" alt="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img align="left" alt="Excel" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
-<img align="left" alt="APIs" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/external-others-pike-picture/50/external-api-web-development-others-pike-picture.png" />
-<br/><br/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
+  <img src="https://n8n.io/images/n8n-logo.png" width="40" title="n8n"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/>
+  <img src="https://img.icons8.com/external-others-pike-picture/50/external-api-web-development-others-pike-picture.png" width="40" title="APIs REST"/>
+</div>
 
 ---
 
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=WENDER&show_icons=true&theme=tokyonight&locale=pt-br" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WENDER&layout=compact&theme=tokyonight&locale=pt-br"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wenderbrito&show_icons=true&theme=tokyonight&locale=pt-br" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderbrito&layout=compact&theme=tokyonight&locale=pt-br" height="180"/>
 </p>
 
 ---
@@ -37,10 +32,7 @@ Me chamo Wender Ferreira Brito, tenho 21 anos e sou um profissional formado em A
 ### 📫 Contato
 
 - 📍 Jaraguá, SP  
-- 📧 wenderbritoferreira@gmail.com  
-- 💼 [LinkedIn www.linkedin.com/in/
-wender-ferreira-5b86a6240
- 
+- 📧 [wenderbritoferreira@gmail.com](mailto:wenderbritoferreira@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/wender-ferreira-5b86a6240)  
 
 ---
-
